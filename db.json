@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "id": "3301",
+      "cityName": "Ennedi-Ouest",
+      "country": "Chad",
+      "emoji": "🇹🇩",
+      "date": "2025-07-19T09:46:09.598Z",
+      "notes": "",
+      "position": {
+        "lat": "20.984802601290095",
+        "lng": "21.03042247164939"
+      }
+    },
+    {
+      "id": "5c56",
+      "cityName": "Chamrajnagar",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-07-19T09:56:46.479Z",
+      "notes": "",
+      "position": {
+        "lat": "11.786165496601305",
+        "lng": "76.8543478769123"
+      }
+    }
+  ]
+}
